@@ -12,7 +12,7 @@ This Project contains two functions:
  
  ## How to run this project?
  
- To run this project , you need to make an executable file:
+ Firstly download the Project and then inside the Project folder , you need to make an executable file as follows:
  
  ### For compressing:
  
