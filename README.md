@@ -13,12 +13,13 @@ This Project contains two functions:
  ## How to run this project?
  
  To run this project , you need to make an executable file:
- 
  1.For compressing:
+ 
  ![compression](https://user-images.githubusercontent.com/76644198/210492081-cb977211-3e0b-4f3d-8824-384dbcea6319.png)
 
  2. For Decompressing:
- ![decompression](https://user-images.githubusercontent.com/76644198/210492174-c67133a7-10d8-40d8-9d35-420f3bef0b87.png)
+
+![decompression](https://user-images.githubusercontent.com/76644198/210492174-c67133a7-10d8-40d8-9d35-420f3bef0b87.png)
 
 ## Conclusion: 
 
